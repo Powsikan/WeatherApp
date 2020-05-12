@@ -1,9 +1,12 @@
 import React, {useState} from "react";
 import axios from "axios";
 
+import Context from "../Context";
+
 import Header from "./Header";
 import Content from "./Content";
 import WeatherSearch from "./WeatherSearch";
+import WeatherData from "./WeatherData";
 
 
 
@@ -24,7 +27,10 @@ const Main = () => {
         <div className="main">
             <Header/>
             <Content>
-                <WeatherSearch api_call={api_call}/>
+               <Context.Provider value={{api_call,weather}}>
+                   <WeatherSearch/>
+                   {weather&& <WeatherData />}
+               </Context.Provider>
             </Content>
 
         </div>
