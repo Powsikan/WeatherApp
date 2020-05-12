@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57802f5f-0d40-4bcb-ab80-36f3644c7a1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/DateTime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tagline.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/WeatherData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherSearch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/modules/_weather-search.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/modules/_weather-search.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589255745930</updated>
       <workItem from="1589255749796" duration="3486000" />
-      <workItem from="1589279467918" duration="5759000" />
+      <workItem from="1589279467918" duration="8965000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1589256346380</created>
@@ -135,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589286435208</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="weather search component fixed">
+      <created>1589286873569</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589286873569</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,17 +159,18 @@
     <MESSAGE value="api calling method" />
     <MESSAGE value="components added" />
     <MESSAGE value="context added" />
-    <option name="LAST_COMMIT_MESSAGE" value="context added" />
+    <MESSAGE value="weather search component fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="weather search component fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="213" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589256436748">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="213" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1589256436748" />
-    <state x="10" y="95" width="930" height="923" key="CommitChangelistDialog2" timestamp="1589286435135">
+    <state x="10" y="95" width="930" height="923" key="CommitChangelistDialog2" timestamp="1589286873494">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="10" y="95" width="930" height="923" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589286435135" />
+    <state x="10" y="95" width="930" height="923" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589286873494" />
     <state width="769" height="275" key="GridCell.Tab.0.bottom" timestamp="1589259261850">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
