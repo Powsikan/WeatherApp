@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57802f5f-0d40-4bcb-ab80-36f3644c7a1d" name="Default Changelist" comment="" />
+    <list default="true" id="57802f5f-0d40-4bcb-ab80-36f3644c7a1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Wrapper.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/base/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/base/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/misc/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/modules/_content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/modules/_date-time.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/modules/_error.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/modules/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/modules/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/modules/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/modules/_tagline.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/modules/_weather-data.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/modules/_weather-search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/modules/_wrapper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Weather.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/WeatherSearch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +48,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bn6w7mauh9iXi092VpTGZe7tDE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -19,12 +58,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -51,11 +101,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589255745930</updated>
-      <workItem from="1589255749796" duration="539000" />
+      <workItem from="1589255749796" duration="2164000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <created>1589256346380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589256346380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="213" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589256436748">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="213" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1589256436748" />
+    <state x="10" y="95" width="930" height="923" key="CommitChangelistDialog2" timestamp="1589256346278">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="10" y="95" width="930" height="923" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589256346278" />
+    <state width="937" height="275" key="GridCell.Tab.0.bottom" timestamp="1589257160402">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="937" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1589257160402" />
+    <state width="937" height="275" key="GridCell.Tab.0.center" timestamp="1589257160402">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="937" height="275" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1589257160402" />
+    <state width="937" height="275" key="GridCell.Tab.0.left" timestamp="1589257160401">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="937" height="275" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1589257160401" />
+    <state width="937" height="275" key="GridCell.Tab.0.right" timestamp="1589257160402">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="937" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1589257160402" />
+    <state x="75" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589256363016">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="75" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1589256363016" />
+    <state x="77" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1589257492983">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="77" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1589257492983" />
   </component>
 </project>
