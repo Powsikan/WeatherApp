@@ -10,6 +10,7 @@ import WeatherData from "./WeatherData";
 import Error from "./Error";
 import DateTime from "./DateTime";
 import Tagline from "./Tagline";
+import Footer from "./Footer";
 
 
 const Main = () => {
@@ -41,6 +42,7 @@ const Main = () => {
                     {weather && <WeatherData/>}
                     {error&&<Error error={error}/>}
                 </Context.Provider>
+                <Footer/>
             </Content>
 
         </div>
